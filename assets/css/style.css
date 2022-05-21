@@ -14,7 +14,7 @@ body {
   background-color: #d9dcd6;
 }
 
-/* Header Styling */
+/* Styling for Header */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -52,6 +52,7 @@ p {
   font-size: 16px;
 }
 
+/* Styling for Classes */
 .hero {
   height: 800px;
   width: 100%;
